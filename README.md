@@ -1,6 +1,18 @@
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
+  </br>
+  해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴짐니다. </br>
+  조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
+  </br>
+  
+---
+
+<h3>프로젝트</h3>
+
+  * 언어 제작 프로잭트 
+  
+    [OTLanguage](https://github.com/PersesTitan/OTLanguage)
 
 ---
 
@@ -51,12 +63,5 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-  
----
 
-<h3>프로젝트</h3>
-
-  * 언어 제작 프로잭트 
-  
-    [OTLanguage](https://github.com/PersesTitan/OTLanguage)
 
