@@ -12,8 +12,20 @@
 
   * 언어 제작 프로잭트 
   
-    [OTLanguage](https://github.com/PersesTitan/OTLanguage)
+    - [x] [OTLanguage](https://github.com/PersesTitan/OTLanguage)
+    - [x] [umjunsik-lang-java](https://github.com/PersesTitan/umjunsik-lang-java) (Fork)
+  
 
+  * GUI 프로젝트
+
+    - [ ] [JavaFX-MakeChatBotProject](https://github.com/PersesTitan/JavaFX-MakeChatBotProject)
+    - [ ] [JavaFX-Calculator](https://github.com/PersesTitan/JavaFX-Calculator)
+
+  * VR 프로젝트
+
+    - [ ] [VR Project](https://github.com/PersesTitan/VR_Project)
+
+  
 ---
 
 <h3>정보</h3>
