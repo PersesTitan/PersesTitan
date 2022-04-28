@@ -51,3 +51,12 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+  
+---
+
+<h3>프로젝트</h3>
+
+  * 언어 제작 프로잭트 
+  
+    [OTLanguage](https://github.com/PersesTitan/OTLanguage)
+
