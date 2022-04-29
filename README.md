@@ -4,7 +4,7 @@
   </br>
   해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴짐니다. </br>
   조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
-  </br><del>ㅇㅁㅇ 파이썬이 왤캐 많지...? 내 주력 언어는 자바인데...</del>
+  </br><del>ㅇㅁㅇ? 내 주력 언어는 자바인데...</del>
   </br></br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
