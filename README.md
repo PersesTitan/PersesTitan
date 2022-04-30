@@ -56,9 +56,9 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white">
   
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-FF0000?style=flat&logo=Rust&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Groovy-4298B8?style=flat&logo=Apache Groovy&logoColor=white">
-      
 
 * 프래임워크&라이브러리 (Framework&Library)
 
