@@ -15,7 +15,7 @@
 
 <h3>프로젝트</h3>
 
-  * 언어 제작 프로잭트 
+  * 언어 제작 프로젝트 
   
     - [x] [OTLanguage](https://github.com/PersesTitan/OTLanguage)
     - [x] [umjunsik-lang-java](https://github.com/PersesTitan/umjunsik-lang-java) (Fork)
@@ -34,7 +34,7 @@
 
     - [x] [MakeLanguage](https://github.com/PersesTitan/MakeLanguage)
     - [x] [Reversal](https://github.com/PersesTitan/Reversal)
-    - [ ] [Encoding](https://github.com/PersesTitan/Encoding)
+    - [x] [Encoding](https://github.com/PersesTitan/Encoding)
   
 ---
 
