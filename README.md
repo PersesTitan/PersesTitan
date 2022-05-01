@@ -24,7 +24,7 @@
   * GUI 프로젝트
 
     - [ ] [JavaFX-MakeChatBotProject](https://github.com/PersesTitan/JavaFX-MakeChatBotProject)
-    - [ ] [JavaFX-Calculator](https://github.com/PersesTitan/JavaFX-Calculator)
+    - [x] [JavaFX-Calculator](https://github.com/PersesTitan/JavaFX-Calculator)
 
   * VR 프로젝트
 
