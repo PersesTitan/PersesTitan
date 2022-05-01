@@ -34,6 +34,7 @@
 
     - [x] [MakeLanguage](https://github.com/PersesTitan/MakeLanguage)
     - [x] [Reversal](https://github.com/PersesTitan/Reversal)
+    - [ ] [Encoding](https://github.com/PersesTitan/Encoding)
   
 ---
 
