@@ -37,6 +37,10 @@
     - [x] [Encoding](https://github.com/PersesTitan/Encoding)
     - [x] [CalculationLanguage](https://github.com/PersesTitan/CalculationLanguage)
     - [x] [Formula](https://github.com/PersesTitan/Formula)
+
+  * DATABASE 프로젝트
+
+    - [ ] [DatabaseSetting]()
   
 ---
 
