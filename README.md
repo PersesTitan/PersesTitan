@@ -38,9 +38,9 @@
     - [x] [CalculationLanguage](https://github.com/PersesTitan/CalculationLanguage)
     - [x] [Formula](https://github.com/PersesTitan/Formula)
 
-  * DATABASE 프로젝트
+  * Database 프로젝트
 
-    - [ ] [DatabaseSetting]()
+    - [ ] [DatabaseSetting](https://github.com/PersesTitan/DatabaseSetting)
   
 ---
 
