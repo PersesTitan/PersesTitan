@@ -19,6 +19,7 @@
   
     - [x] [OTLanguage](https://github.com/PersesTitan/OTLanguage)
     - [x] [umjunsik-lang-java](https://github.com/PersesTitan/umjunsik-lang-java) (Fork)
+    - [ ] [balbalabo-lang](https://github.com/PersesTitan/balbalabo-lang)
   
 
   * GUI 프로젝트
