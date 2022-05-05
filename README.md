@@ -7,8 +7,8 @@
   </br><del>ㅇㅁㅇ? 내 주력 언어는 자바인데...</del>
   </br></br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&theme=rose_pine)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=10&layout=compact&theme=rose_pine)
 
 
 ---
