@@ -49,7 +49,7 @@
 
     * Spring & SpringBoot
 
-      - [ ] [JavaSpringWeb](https://github.com/PersesTitan/JavaSpringWeb)
+      - [ ] [SpringWeb](https://github.com/PersesTitan/SpringWeb)
 
     * Ruby on Rails
 
