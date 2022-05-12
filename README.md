@@ -58,11 +58,11 @@
 
 <h3>정보</h3>
 
-* 매인 프로그램 (Main Programming)
+* 매인 언어 (Main Language)
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   
-* 서브 프로그램&학습중인 프로그램 (Sub Programming&learning Programming)
+* 서브 언어 & 학습중인 언어 (Sub Language&learning Language)
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=Csharp&logoColor=white"/>
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Groovy-4298B8?style=flat&logo=Apache Groovy&logoColor=white">
 
-* 프래임워크&라이브러리 (Framework&Library)
+* 프래임워크 & 라이브러리 (Framework&Library)
 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
@@ -87,6 +87,7 @@
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat&logo=Ruby on Rails&logoColor=white">
   
 * 개발통합환경 (IDE)
 
