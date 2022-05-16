@@ -19,6 +19,7 @@
   
     - [x] [OTLanguage-ProtoType](https://github.com/PersesTitan/OTLanguage-ProtoType)
     - [ ] [OTLanguage](https://github.com/PersesTitan/OTLanguage)
+    - [ ] [Mobile-OTLanguageIDE](https://github.com/PersesTitan/Android-OTLanguageIDE)
     - [x] [umjunsik-lang-java](https://github.com/PersesTitan/umjunsik-lang-java) (Fork)
 
   * ### GUI 프로젝트
