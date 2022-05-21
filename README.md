@@ -60,6 +60,7 @@
 * 매인 언어 (Main Language)
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-flat.svg"/>
   
 * 서브 언어 & 학습중인 언어 (Sub Language&learning Language)
 
