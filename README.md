@@ -1,61 +1,4 @@
-
-  # 나의 기록
-  
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
-  </br>
-  해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴짐니다. </br>
-  조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
-  </br></br>
-   
-
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=500&theme=rose_pine)](https://github.com/PersesTitan)
-
-# 프로젝트
-
-  * ### 언어 제작 프로젝트 
-  
-    - [x] [OTLanguage-ProtoType](https://github.com/PersesTitan/OTLanguage-ProtoType)
-    - [ ] [OTLanguage](https://github.com/PersesTitan/OTLanguage)
-    - [ ] [Mobile-OTLanguageIDE](https://github.com/PersesTitan/Android-OTLanguageIDE)
-    - [x] [umjunsik-lang-java](https://github.com/PersesTitan/umjunsik-lang-java) (Fork)
-
-  * ### GUI 프로젝트
-
-    - [ ] [JavaFX-MakeChatBotProject](https://github.com/PersesTitan/JavaFX-MakeChatBotProject)
-    - [x] [JavaFX-Calculator](https://github.com/PersesTitan/JavaFX-Calculator)
-
-  * ### VR 프로젝트
-
-    - [ ] [VR Project](https://github.com/PersesTitan/VR_Project)
-
-  * ### Jar & Lib 프로젝트
-
-    - [x] [MakeLanguage](https://github.com/PersesTitan/MakeLanguage)
-    - [x] [Reversal](https://github.com/PersesTitan/Reversal)
-    - [x] [Encoding](https://github.com/PersesTitan/Encoding)
-    - [x] [CalculationLanguage](https://github.com/PersesTitan/CalculationLanguage)
-    - [x] [Formula](https://github.com/PersesTitan/Formula)
-    - [ ] [SimpleVariableLanguage](https://github.com/PersesTitan/SimpleVariableLanguage)
-
-  * ### Database 프로젝트
-
-    - [ ] [DatabaseSetting](https://github.com/PersesTitan/DatabaseSetting)
-  
-  * ### WebFramework 프로젝트
-
-    * Spring & SpringBoot
-
-      - [ ] [SpringWeb](https://github.com/PersesTitan/SpringWeb)
-
-    * Ruby on Rails
-
-      - [ ] [RubyWeb](https://github.com/PersesTitan/RubyWeb)
----
-
-<h3>정보</h3>
+  # 정보
 
 * 매인 언어 (Main Language)
 
@@ -106,3 +49,66 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 
 
+</br>
+</br>
+</br>
+  
+  
+  # 나의 기록
+  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
+  </br>
+  해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴짐니다. </br>
+  조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
+  
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=500&theme=rose_pine)](https://github.com/PersesTitan)
+
+
+</br>
+</br>
+</br>
+
+
+# 프로젝트
+
+  * ### 언어 제작 프로젝트 
+  
+    - [x] [OTLanguage-ProtoType](https://github.com/PersesTitan/OTLanguage-ProtoType)
+    - [ ] [OTLanguage](https://github.com/PersesTitan/OTLanguage)
+    - [ ] [Mobile-OTLanguageIDE](https://github.com/PersesTitan/Android-OTLanguageIDE)
+    - [x] [umjunsik-lang-java](https://github.com/PersesTitan/umjunsik-lang-java) (Fork)
+
+  * ### GUI 프로젝트
+
+    - [ ] [JavaFX-MakeChatBotProject](https://github.com/PersesTitan/JavaFX-MakeChatBotProject)
+    - [x] [JavaFX-Calculator](https://github.com/PersesTitan/JavaFX-Calculator)
+
+  * ### VR 프로젝트
+
+    - [ ] [VR Project](https://github.com/PersesTitan/VR_Project)
+
+  * ### Jar & Lib 프로젝트
+
+    - [x] [MakeLanguage](https://github.com/PersesTitan/MakeLanguage)
+    - [x] [Reversal](https://github.com/PersesTitan/Reversal)
+    - [x] [Encoding](https://github.com/PersesTitan/Encoding)
+    - [x] [CalculationLanguage](https://github.com/PersesTitan/CalculationLanguage)
+    - [x] [Formula](https://github.com/PersesTitan/Formula)
+    - [ ] [SimpleVariableLanguage](https://github.com/PersesTitan/SimpleVariableLanguage)
+
+  * ### Database 프로젝트
+
+    - [ ] [DatabaseSetting](https://github.com/PersesTitan/DatabaseSetting)
+  
+  * ### WebFramework 프로젝트
+
+    * Spring & SpringBoot
+
+      - [ ] [SpringWeb](https://github.com/PersesTitan/SpringWeb)
+
+    * Ruby on Rails
+
+      - [ ] [RubyWeb](https://github.com/PersesTitan/RubyWeb)
