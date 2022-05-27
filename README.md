@@ -49,6 +49,10 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 
+* 정보 
+  
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
 
 </br>
 </br>
@@ -57,13 +61,13 @@
   
   # 나의 기록
   
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
+  최근 제가 공부한 내용을 블로그에 적어보고 있습니다! 혹시 관심 있으신 분은 링크를 참고 해주세요.
+  
+   * [Velog 링크](https://velog.io/@persestitan)
+  
   </br>
   해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴짐니다. </br>
   조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
-  
-  * [Velog 링크](https://velog.io/@persestitan)
   
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
