@@ -117,6 +117,8 @@
 
       - [ ] [SpringWeb](https://github.com/PersesTitan/SpringWeb)
       - [ ] [Web-OTLanguageIDE](https://github.com/PersesTitan/Web-OTLanguageIDE)
+      - [ ] [jpashop](https://github.com/PersesTitan/Spring-jpashop)
+      - [ ] [GuideBlog](https://github.com/PersesTitan/Spring-GuideBlog)
 
     * Ruby on Rails
 
