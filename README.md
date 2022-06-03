@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=Notepad%2B%2B&logoColor=white">
 
 * 기타 (Etc)
  
@@ -53,9 +54,11 @@
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/RubyGems-E9573F?style=flat&logo=RubyGems&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
  
 * 정보 
   
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"><br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
