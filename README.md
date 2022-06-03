@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white">
@@ -23,8 +23,8 @@
 
 * 프래임워크 & 라이브러리 (Framework&Library)
 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white">
@@ -55,9 +55,10 @@
  
 * 정보 
   
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-   <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
-
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"><br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
+  
 </br>
 </br>
 </br>
