@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=Notepad%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=Notepad%2B%2B&logoColor=black">
 
 * 기타 (Etc)
  
@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/RubyGems-E9573F?style=flat&logo=RubyGems&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat&logo=RedHat&logoColor=white">
  
 * 정보 
   
