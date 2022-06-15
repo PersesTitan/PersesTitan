@@ -117,6 +117,7 @@
     - [x] [CalculationLanguage](https://github.com/PersesTitan/CalculationLanguage)
     - [x] [Formula](https://github.com/PersesTitan/Formula)
     - [ ] [SimpleVariableLanguage](https://github.com/PersesTitan/SimpleVariableLanguage)
+    - [ ] [BadWordFiltering](https://github.com/PersesTitan/BadWordFiltering)
 
   * ### Database 프로젝트
 
