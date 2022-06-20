@@ -131,6 +131,9 @@
       - [ ] [Web-OTLanguageIDE](https://github.com/PersesTitan/Web-OTLanguageIDE)
       - [ ] [jpashop](https://github.com/PersesTitan/Spring-jpashop)
       - [ ] [GuideBlog](https://github.com/PersesTitan/Spring-GuideBlog)
+      - [x] [Spring Memo](https://github.com/PersesTitan/Spring-Memo)
+      - [x] [Spring Kotlin Memo](https://github.com/PersesTitan/Spring-Memo-Kotlin)
+      - [ ] [Spring Groovy Memo](https://github.com/PersesTitan/Spring-Memo-Groovy)
 
     * Ruby on Rails
 
