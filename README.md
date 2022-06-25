@@ -79,7 +79,7 @@
   
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=101&theme=rose_pine)](https://github.com/PersesTitan)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=102&theme=rose_pine)](https://github.com/PersesTitan)
  
 
 </br>
