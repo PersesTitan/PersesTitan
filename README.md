@@ -130,7 +130,7 @@
       - [ ] [GuideBlog](https://github.com/PersesTitan/Spring-GuideBlog)
       - [x] [Spring Memo](https://github.com/PersesTitan/Spring-Memo)
       - [x] [Spring Kotlin Memo](https://github.com/PersesTitan/Spring-Memo-Kotlin)
-      - [ ] [Spring Groovy Memo](https://github.com/PersesTitan/Spring-Memo-Groovy)
+      - [x] [Spring Groovy Memo](https://github.com/PersesTitan/Spring-Memo-Groovy)
 
     * Ruby on Rails
 
