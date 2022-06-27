@@ -2,7 +2,7 @@
 
 * 매인 언어 (Main Language)
 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Groovy-4298B8?style=flat&logo=Apache Groovy&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
   <a href="https://github.com/OTLanguage"><img src="https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-flat.svg"/></a>
