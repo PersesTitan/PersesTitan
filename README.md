@@ -1,4 +1,11 @@
   # 정보
+  
+  해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴짐니다. </br>
+  조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
+  
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=104&theme=rose_pine)](https://github.com/PersesTitan)
 
 * 매인 언어 (Main Language)
 
@@ -18,6 +25,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-FF0000?style=flat&logo=Rust&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 
 * 프래임워크 & 라이브러리 (Framework&Library)
 
@@ -29,6 +37,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat&logo=Ruby on Rails&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
   
 * 개발통합환경 (IDE)
 
@@ -40,6 +49,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=Notepad%2B%2B&logoColor=black">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white">
 
 * 기타 (Etc)
  
@@ -52,8 +62,11 @@
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/RubyGems-E9573F?style=flat&logo=RubyGems&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat&logo=RedHat&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=black">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black">
  
 * 정보 
   
@@ -62,25 +75,6 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
   
-</br>
-</br>
-</br>
-  
-  
-  # 나의 기록
-  
-  최근 제가 공부한 내용을 블로그에 적어보고 있습니다! 혹시 관심 있으신 분은 링크를 참고 해주세요.
-  
-   * [Velog 링크](https://velog.io/@persestitan)
-  
-  </br>
-  해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴짐니다. </br>
-  조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
-  
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=104&theme=rose_pine)](https://github.com/PersesTitan)
-
 </br>
 </br>
 </br>
