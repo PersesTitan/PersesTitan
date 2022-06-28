@@ -68,6 +68,16 @@
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white">
+  
+* 그림 툴 (Drawing Tools)
+
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white">
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=GIMP&logoColor=white">
  
 * 정보 
   
