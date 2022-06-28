@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
  
 * 정보 
   
