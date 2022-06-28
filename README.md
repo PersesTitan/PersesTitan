@@ -65,8 +65,8 @@
   <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat&logo=RedHat&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
-  <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=black">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
  
 * 정보 
   
