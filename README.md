@@ -4,8 +4,8 @@
   조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
   
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=104&theme=rose_pine)](https://github.com/PersesTitan)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
 
 * 매인 언어 (Main Language)
 
