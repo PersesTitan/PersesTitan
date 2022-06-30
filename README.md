@@ -111,7 +111,7 @@
 
   * ### VR 프로젝트
 
-    - [ ] [VR Project](https://github.com/PersesTitan/VR_Project)
+    - [x] [VR Project](https://github.com/PersesTitan/VR_Project)
 
   * ### Jar & Lib 프로젝트
 
