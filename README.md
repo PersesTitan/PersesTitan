@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat&logo=Ruby on Rails&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
   <img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat.svg"/>
+  <img src="https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat.svg">
   
 * 개발통합환경 (IDE)
 
