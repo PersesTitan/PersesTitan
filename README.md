@@ -74,6 +74,8 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white">
   
 * 그림 툴 (Drawing Tools)
 
