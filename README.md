@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
   <img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat.svg"/>
   <img src="https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat.svg">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
   
 * 개발통합환경 (IDE)
 
