@@ -77,6 +77,7 @@
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white">
   
 * 그림 툴 (Drawing Tools)
 
