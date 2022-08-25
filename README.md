@@ -3,10 +3,15 @@
   해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴짐니다. </br>
   조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
   
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)](https://github.com/PersesTitan)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
+<!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)](https://github.com/PersesTitan) -->
 
+  
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine">
+</div>
 
 [![Check out PersesTitan's profile on stardev.io](https://stardev.io/developers/PersesTitan/badge/languages/global.svg)](https://stardev.io/developers/PersesTitan)
 
