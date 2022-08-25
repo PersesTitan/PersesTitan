@@ -1,6 +1,6 @@
   # 정보
   
-  해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴짐니다. </br>
+  해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴집니다. </br>
   조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&langs_count=20&layout=compact&theme=rose_pine) -->
