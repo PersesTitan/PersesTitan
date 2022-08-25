@@ -8,10 +8,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)](https://github.com/PersesTitan) -->
 
   
-<div align=center>
-  <img style="width: 55%" src="https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine">
-  <img style="width: 44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine">
-</div>
+![](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)
+|----|----|
 
 [![Check out PersesTitan's profile on stardev.io](https://stardev.io/developers/PersesTitan/badge/languages/global.svg)](https://stardev.io/developers/PersesTitan)
 
