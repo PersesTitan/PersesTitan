@@ -7,11 +7,10 @@
 <!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)](https://github.com/PersesTitan) -->
 
-  
 ![](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)
 |----|----|
-
-[![Check out PersesTitan's profile on stardev.io](https://stardev.io/developers/PersesTitan/badge/languages/global.svg)](https://stardev.io/developers/PersesTitan)
+|[![Check out PersesTitan's profile on stardev.io](https://stardev.io/developers/PersesTitan/badge/languages/global.svg)](https://stardev.io/developers/PersesTitan) | [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=PersesTitan)](https://solved.ac/PersesTitan)
+| | **백준... 잘 안 하게되네요...**
 
 * 매인 언어 (Main Language)
 
