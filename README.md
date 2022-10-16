@@ -17,11 +17,11 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Groovy-4298B8?style=flat&logo=Apache Groovy&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <a href="https://github.com/OTLanguage"><img src="https://github.com/OTLanguage/.github/blob/main/image/OTLanguage-flat.svg"/></a>
   
 * 서브 언어 & 학습중인 언어 (Sub Language&learning Language)
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
