@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)
 |----|----|
 |[![Check out PersesTitan's profile on stardev.io](https://stardev.io/developers/PersesTitan/badge/languages/global.svg)](https://stardev.io/developers/PersesTitan) | [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=PersesTitan)](https://solved.ac/PersesTitan)
-| | **백준... 잘 안 하게되네요...**
+| | 갑자기 백준 차단 당했습니다. 현제 문의 넣는 중입니다..
 
 * 매인 언어 (Main Language)
 
