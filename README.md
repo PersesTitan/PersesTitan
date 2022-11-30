@@ -96,23 +96,39 @@
   
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black">
   
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a>
   <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
   
 </br>
 </br>
 </br>
 
+# 계획 중인 프로젝트
+  - [ ] [문자열 계산기]()
+
+개요<br>
+문자열을 계산하여 값을 구하는 프로그램 개발
+
+  - [ ] [데이터 분석]()
+
+개요<br>
+데이터를 분석하고 데이터 값을 예측하는 모델 구현
+
+
+
+---
+
+<details>
+    <summary>과거 프로젝트</summary>
 
 # 프로젝트
 
   * ### 언어 제작 프로젝트 
   
-    - [x] [OTLanguage-ProtoType](https://github.com/PersesTitan/OTLanguage-ProtoType)
     - [ ] [OTLanguage](https://github.com/PersesTitan/OTLanguage)
     - [ ] [Mobile-OTLanguageIDE](https://github.com/PersesTitan/Android-OTLanguageIDE)
-    - [ ] [Web-OTLanguageIDE](https://github.com/PersesTitan/Web-OTLanguageIDE)
-    - [ ] [MusicOTLanguage](https://github.com/PersesTitan/MusicOTLanguage)
     - [x] [umjunsik-lang-java](https://github.com/PersesTitan/umjunsik-lang-java) (Fork)
 
   * ### GUI 프로젝트
@@ -158,3 +174,5 @@
       
       - [ ] [GinTest](https://github.com/PersesTitan/GinTest)
       - [x] [GinLanguageImage](https://github.com/PersesTitan/GinLanguageImage)
+  
+</details>
