@@ -3,6 +3,8 @@
   해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴집니다. </br>
   조금 더 좋은 코딩이 나오게 하고 싶네요... </br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%23B21A1A&title_bg=%23555555&icon=electron.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+
 블로그|링크
 |----|----|
 |![](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white) | https://velog.io/@persestitan |
@@ -95,32 +97,30 @@
 * 정보 
   
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black">
-  
-  <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</a>
-  <img src="https://img.shields.io/github/followers/PersesTitan?style=social"></br>
-  
+  <img src="https://img.shields.io/github/followers/PersesTitan?style=social">
+
+</br>  
 </br>
 </br>
 </br>
 
 # 계획 중인 프로젝트
-  - [ ] [문자열 계산기]()
 
-개요<br>
-문자열을 계산하여 값을 구하는 프로그램 개발
 
-  - [ ] [데이터 분석]()
+### 문자열 계산기
+- [ ] 완료
+- 문자열을 계산하여 값을 구하는 프로그램 개발
+- 링크 : [N/A]()
 
-개요<br>
-데이터를 분석하고 데이터 값을 예측하는 모델 구현
+### 데이터 분석
+- [ ] 완료
+- 데이터를 분석하고 데이터 값을 예측하는 모델 구현
+- 링크 : [N/A]()
 
-  - [ ] [크롤링]()
-
-개요<br>
-웹 검색 및 url를 가지고 정보를 읽어오는 동작 구현
-
+### 크롤링
+- [ ] 완료
+- 웹 검색 및 url를 가지고 정보를 읽어오는 동작 구현
+- 링크 : [N/A]()
 
 ---
 
