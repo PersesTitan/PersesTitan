@@ -108,23 +108,26 @@
 
 
 ### 문자열 계산기
-- [ ] 완료
-- 문자열을 계산하여 값을 구하는 프로그램 개발
-- 링크 : [N/A]()
+- 문자열 이루어진 식을 계산하여 반환하는 로직 구현
+- Code to calculate a formula consisting of strings
+- 링크 : [Calculator-java](https://github.com/PersesTitan/Calculator-java)
 
 ### 데이터 분석
-- [ ] 완료
 - 데이터를 분석하고 데이터 값을 예측하는 모델 구현
 - 링크 : [N/A]()
 
 ### 크롤링
-- [ ] 완료
 - 웹 검색 및 url를 가지고 정보를 읽어오는 동작 구현
 - 링크 : [N/A]()
 
 ### 메크로
 - 마우스 클릭, 입력등 자동으로 동작하게 해주는 동작 구현
 - 링크 : [N/A]()
+
+### 새로운 종류의 Map구현
+- 정규식을 이용한 Map이나 Key, Value 둘다 유일한 Map구현등 다른 종류의 Map구현
+- Map using regular expressionsor Key, Value, and other types of map implementation, such as the only map implementation
+- 링크 : [NewTypeMap](https://github.com/PersesTitan/NewTypeMap)
 
 ---
 
