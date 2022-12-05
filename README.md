@@ -133,6 +133,16 @@
 - 직열화를 이용한 데이터베이스구현하기
 - 링크 : [N/A]()
 
+### 온라인 IDE 사이트 제작
+- Spring을 이용한 온라인 IDE 제작해보기
+- Creating an online IDE using Spring
+- 링크 : [N/A]()
+
+### 온라인 커뮤니티 사이트 제작
+- Spring을 이용한 온라인 커뮤니티 사이트 구현
+- Implementation of online community site using Spring
+- 링크 : [N/A]()
+
 ---
 
 <details>
