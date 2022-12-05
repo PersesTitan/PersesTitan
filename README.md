@@ -5,6 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%23B21A1A&title_bg=%23555555&icon=electron.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
 블로그|링크
 |----|----|
 |![](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white) | https://velog.io/@persestitan |
@@ -97,9 +98,10 @@
 * 정보 
   
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black">
-  <img src="https://img.shields.io/github/followers/PersesTitan?style=social">
 
-</br>  
+Thank you for following :)<br>
+![](https://img.shields.io/github/followers/PersesTitan?style=social)
+
 </br>
 </br>
 </br>
@@ -114,14 +116,17 @@
 
 ### 데이터 분석
 - 데이터를 분석하고 데이터 값을 예측하는 모델 구현
+- Implement models that analyze data and predict data values
 - 링크 : [N/A]()
 
 ### 크롤링
 - 웹 검색 및 url를 가지고 정보를 읽어오는 동작 구현
+- Implementation of reading information with web search and url
 - 링크 : [N/A]()
 
 ### 메크로
 - 마우스 클릭, 입력등 자동으로 동작하게 해주는 동작 구현
+- Implementation of actions that automatically operate such as mouse clicks and inputs
 - 링크 : [N/A]()
 
 ### 새로운 종류의 Map구현
@@ -131,6 +136,7 @@
 
 ### 데이터베이스 구현
 - 직열화를 이용한 데이터베이스구현하기
+- Implementing a database using serialization
 - 링크 : [N/A]()
 
 ### 온라인 IDE 사이트 제작
