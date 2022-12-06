@@ -146,7 +146,7 @@ Thank you for following :)
 ### 온라인 커뮤니티 사이트 제작
 - Spring을 이용한 온라인 커뮤니티 사이트 구현
 - Implementation of online community site using Spring
-- 링크 : [N/A]()
+- 링크 : [online-community](https://github.com/PersesTitan/online-community)
 
 ---
 
