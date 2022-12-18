@@ -107,43 +107,66 @@ Thank you for following :)
 
 # 계획 중인 프로젝트
 
+## Status
 
-### 문자열 계산기
+- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square) READY(준비중): Have a simple design plan
+- ![DESIGN](https://img.shields.io/badge/DESIGN-yellow?style=flat-square) DESIGN(설계중): State of design of technology and structure to be used
+- ![DEVELOP](https://img.shields.io/badge/DEVELOP-green?style=flat-square) DEVELOP(개발중): The state of being developed
+- ![STOP](https://img.shields.io/badge/STOP-ff0000?style=flat-square) STOP(개발중단): Development stopped due to a problem
+- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square) UPDATE(업데이트): Basic features are implemented and additional features are being updated
+- ![FINISH](https://img.shields.io/badge/FINISH-blueviolet?style=flat-square) FINISH(개발종료): Development and update completed
+
+## Project
+### OTLanguage
+- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
+- 실용성있는 난해한 프로그래밍 언어 제작 프로젝트
+- A practical and esoteric programming language production project
+- 링크 : [OTLanguage](https://github.com/OTLanguage)
+
+### 문자열 계산기 
+- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
 - 문자열 이루어진 식을 계산하여 반환하는 로직 구현
 - Code to calculate a formula consisting of strings
 - 링크 : [Calculator-java](https://github.com/PersesTitan/Calculator-java)
 
 ### 데이터 분석
+- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square)
 - 데이터를 분석하고 데이터 값을 예측하는 모델 구현
 - Implement models that analyze data and predict data values
 - 링크 : [N/A]()
 
 ### 크롤링
+- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square)
 - 웹 검색 및 url를 가지고 정보를 읽어오는 동작 구현
 - Implementation of reading information with web search and url
 - 링크 : [N/A]()
 
 ### 메크로
+- ![DESIGN](https://img.shields.io/badge/DESIGN-yellow?style=flat-square)
 - 마우스 클릭, 입력등 자동으로 동작하게 해주는 동작 구현
 - Implementation of actions that automatically operate such as mouse clicks and inputs
 - 링크 : [N/A]()
 
 ### 새로운 종류의 Map구현
+- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
 - 정규식을 이용한 Map이나 Key, Value 둘다 유일한 Map구현등 다른 종류의 Map구현
 - Map using regular expressionsor Key, Value, and other types of map implementation, such as the only map implementation
 - 링크 : [NewTypeMap](https://github.com/PersesTitan/NewTypeMap)
 
 ### 데이터베이스 구현
+- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square)
 - 직열화를 이용한 데이터베이스구현하기
 - Implementing a database using serialization
 - 링크 : [N/A]()
 
 ### 온라인 IDE 사이트 제작
+- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square)
 - Spring을 이용한 온라인 IDE 제작해보기
 - Creating an online IDE using Spring
 - 링크 : [N/A]()
 
 ### 온라인 커뮤니티 사이트 제작
+- ![DESIGN](https://img.shields.io/badge/DESIGN-yellow?style=flat-square)
 - Spring을 이용한 온라인 커뮤니티 사이트 구현
 - Implementation of online community site using Spring
 - 링크 : [online-community](https://github.com/PersesTitan/online-community)
