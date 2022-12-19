@@ -159,7 +159,7 @@ Thank you for following :)
 - ![DESIGN](https://img.shields.io/badge/DESIGN-yellow?style=flat-square)
 - 마우스 클릭, 입력등 자동으로 동작하게 해주는 동작 구현
 - Implementation of actions that automatically operate such as mouse clicks and inputs
-- 링크 : [N/A]()
+- 링크 : [macro](https://github.com/PersesTitan/macro)
 
 ### 새로운 종류의 Map구현
 - ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
