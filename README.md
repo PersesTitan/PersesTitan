@@ -122,6 +122,20 @@ Thank you for following :)
 - 실용성있는 난해한 프로그래밍 언어 제작 프로젝트
 - A practical and esoteric programming language production project
 - 링크 : [OTLanguage](https://github.com/OTLanguage)
+- <details>
+      <summary>기타 정보</summary>
+      <a href="https://velog.io/@persestitan/OTLanguage-%EB%AC%B8%EB%B2%95%EC%A0%95%EB%B3%B4-%EC%B4%9D-%EC%A0%95%EB%A6%AC">문법 정리 링크</a>
+  </details>
+
+### Poison
+- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
+- OTLanguage를 이용하여 구현하는 웹프레임워크 구현 프로젝트
+- Web framework implementation project using OTLlanguage
+- 링크 : [Poison](https://github.com/OTLanguage)
+- <details>
+      <summary>기타 정보</summary>
+      <a href="https://velog.io/@persestitan/OTLanguagePoison-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0">동작 예제</a>
+  </details>
 
 ### 문자열 계산기 
 - ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
