@@ -12,6 +12,7 @@ Thank you for following :)
 |----|----|
 |![](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white) | https://velog.io/@persestitan |
 |![](https://img.shields.io/badge/Tistory-999999?style=flat&logo=Tistory&logoColor=white) | https://persestitan.tistory.com/ |
+|![](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white) | https://bitbucket.org/persestitan/ |
 
 ![](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)
 |----|----|
