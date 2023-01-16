@@ -1,14 +1,20 @@
-  # 정보 
+# Information 
   
-  해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴집니다. </br>
-  조금 더 좋은 코딩이 나오게 하고 싶네요...</br>
+ 해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴집니다. </br>
+ 조금 더 좋은 코딩이 나오게 하고 싶네요...</br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%23B21A1A&title_bg=%23555555&icon=electron.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![](https://img.shields.io/github/followers/PersesTitan?style=social)<br>
 Thank you for following :)
 
-블로그|링크
+# My activity
+### codeing
+
+
+### hobby
+- Draw a profile picture
+
+blog|link
 |----|----|
 |![](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white) | https://velog.io/@persestitan |
 |![](https://img.shields.io/badge/Tistory-999999?style=flat&logo=Tistory&logoColor=white) | https://persestitan.tistory.com/ |
