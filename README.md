@@ -5,12 +5,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%23B21A1A&title_bg=%23555555&icon=electron.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-blog|link
-|----|----|
-|![](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white) | https://velog.io/@persestitan |
-|![](https://img.shields.io/badge/Tistory-999999?style=flat&logo=Tistory&logoColor=white) | https://persestitan.tistory.com/ |
-|![](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white) | https://bitbucket.org/persestitan/ |
-
 ![](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)
 |----|----|
 
@@ -24,15 +18,15 @@ blog|link
   
 * 서브 언어 & 학습중인 언어 (Sub Language&learning Language)
 
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-FF0000?style=flat&logo=Rust&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 
 * 프래임워크 & 라이브러리 (Framework&Library)
   * 백앤드 (BackEnd)
@@ -67,10 +61,11 @@ blog|link
   ![](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)
   ![](https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white)
   ![](https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white)
+  ![](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white">
+  <br/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">  
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white">
@@ -79,20 +74,23 @@ blog|link
 
 * 기타 (Etc)
  
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">  
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/RubyGems-E9573F?style=flat&logo=RubyGems&logoColor=white">
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white">
+
+* 데이터베이스 (DB)
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black">
 
 * 운영체제 (OS)
 
@@ -109,6 +107,7 @@ blog|link
   ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
   ![](https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white)
   ![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white)
   
 * 그림 툴 (Drawing Tools)
 
@@ -119,7 +118,9 @@ blog|link
  
 * 정보 
   
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black">
+  ![](https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black)
+  ![](https://img.shields.io/badge/Tistory-999999?style=flat&logo=Tistory&logoColor=white)
+  ![](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)
 
 </br>
 </br>
