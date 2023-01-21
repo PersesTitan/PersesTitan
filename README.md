@@ -55,11 +55,11 @@ blog|link
   
   * 기타 (Other)
   
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
-  <img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat.svg"/>
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">
+    <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
+    <img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat.svg"/>
   
 * 개발통합환경 (IDE)
 
