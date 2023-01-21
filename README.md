@@ -35,27 +35,42 @@ blog|link
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 
 * 프래임워크 & 라이브러리 (Framework&Library)
-
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
+  * 백앤드 (BackEnd)
+  
+    ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+    ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+    ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+    ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+    ![](https://img.shields.io/badge/NodeRED-8F0000?style=flat&logo=Node-RED&logoColor=white)
+    <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat&logo=Ruby on Rails&logoColor=white">
+    <img src="https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat.svg">
+    
+  * 프론트엔드 (FrontEnd)
+  
+    ![](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white)
+    ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+    ![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+  
+  * 기타 (Other)
+  
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat&logo=Ruby on Rails&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
   <img src="https://github.com/OTLanguage/.github/blob/main/icon/music/OTLanguageMusic-flat.svg"/>
-  <img src="https://github.com/OTLanguage/.github/blob/main/image/poison/svg/Poison-flat.svg">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
   
 * 개발통합환경 (IDE)
 
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
+  ![](https://img.shields.io/badge/GoLand-000000?style=flat&logo=GoLand&logoColor=white)
+  ![](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)
+  ![](https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white)
+  ![](https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white)
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">  
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white">
@@ -64,28 +79,36 @@ blog|link
 
 * 기타 (Etc)
  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/RubyGems-E9573F?style=flat&logo=RubyGems&logoColor=white">
-  <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat&logo=RedHat&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=Sketch&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white">
+
+* 운영체제 (OS)
+
+  ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white)
+  ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![](https://img.shields.io/badge/Apple-000000?style=flat&logo=Apple&logoColor=white)
+  ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=RedHat&logoColor=white)
+  <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat&logo=Windows 11&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white">
+
+  
+* 형상관리시스템 (SCM)
+
+  ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
+  ![](https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white)
+  ![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   
 * 그림 툴 (Drawing Tools)
 
@@ -98,7 +121,6 @@ blog|link
   
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black">
 
-</br>
 </br>
 </br>
 
