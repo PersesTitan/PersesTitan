@@ -4,15 +4,6 @@
  조금 더 좋은 코딩이 나오게 하고 싶네요...</br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%23B21A1A&title_bg=%23555555&icon=electron.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-![](https://img.shields.io/github/followers/PersesTitan?style=social)<br>
-Thank you for following :)
-
-# My activity
-### codeing
-
-
-### hobby
-- Draw a profile picture
 
 blog|link
 |----|----|
@@ -22,7 +13,6 @@ blog|link
 
 ![](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=rose_pine) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=rose_pine)
 |----|----|
-|[![Check out PersesTitan's profile on stardev.io](https://stardev.io/developers/PersesTitan/badge/languages/global.svg)](https://stardev.io/developers/PersesTitan)
 
 * 매인 언어 (Main Language)
 
@@ -195,62 +185,3 @@ blog|link
 ### 시험지 제작 사이트
 - ![DESIGN](https://img.shields.io/badge/DESIGN-yellow?style=flat-square)
 - 시험지를 제작하는 사이트 구현
-
----
-
-<details>
-    <summary>과거 프로젝트</summary>
-
-# 프로젝트
-
-  * ### 언어 제작 프로젝트 
-  
-    - [ ] [OTLanguage](https://github.com/PersesTitan/OTLanguage)
-    - [ ] [Mobile-OTLanguageIDE](https://github.com/PersesTitan/Android-OTLanguageIDE)
-    - [x] [umjunsik-lang-java](https://github.com/PersesTitan/umjunsik-lang-java) (Fork)
-
-  * ### GUI 프로젝트
-
-    - [ ] [JavaFX-MakeChatBotProject](https://github.com/PersesTitan/JavaFX-MakeChatBotProject)
-    - [x] [JavaFX-Calculator](https://github.com/PersesTitan/JavaFX-Calculator)
-
-  * ### VR 프로젝트
-
-    - [x] [VR Project](https://github.com/PersesTitan/VR_Project)
-
-  * ### Jar & Lib 프로젝트
-
-    - [x] [MakeLanguage](https://github.com/PersesTitan/MakeLanguage)
-    - [x] [Reversal](https://github.com/PersesTitan/Reversal)
-    - [x] [Encoding](https://github.com/PersesTitan/Encoding)
-    - [x] [CalculationLanguage](https://github.com/PersesTitan/CalculationLanguage)
-    - [x] [Formula](https://github.com/PersesTitan/Formula)
-    - [ ] [SimpleVariableLanguage](https://github.com/PersesTitan/SimpleVariableLanguage)
-    - [ ] [BadWordFiltering](https://github.com/PersesTitan/BadWordFiltering)
-
-  * ### Database 프로젝트
-
-    - [ ] [DatabaseSetting](https://github.com/PersesTitan/DatabaseSetting)
-  
-  * ### WebFramework 프로젝트
-
-    * Spring & SpringBoot
-
-      - [ ] [SpringWeb](https://github.com/PersesTitan/SpringWeb)
-      - [ ] [Web-OTLanguageIDE](https://github.com/PersesTitan/Web-OTLanguageIDE)
-      - [ ] [jpashop](https://github.com/PersesTitan/Spring-jpashop)
-      - [ ] [GuideBlog](https://github.com/PersesTitan/Spring-GuideBlog)
-      - [x] [Spring Memo](https://github.com/PersesTitan/Spring-Memo)
-      - [x] [Spring Kotlin Memo](https://github.com/PersesTitan/Spring-Memo-Kotlin)
-      - [x] [Spring Groovy Memo](https://github.com/PersesTitan/Spring-Memo-Groovy)
-
-    * Ruby on Rails
-
-      - [ ] [RubyWeb](https://github.com/PersesTitan/RubyWeb)
-      
-    * Gin
-      
-      - [ ] [GinTest](https://github.com/PersesTitan/GinTest)
-      - [x] [GinLanguageImage](https://github.com/PersesTitan/GinLanguageImage)
-  
-</details>
