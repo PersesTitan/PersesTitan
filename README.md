@@ -63,6 +63,7 @@
   ![](https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white)
   ![](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetbrains-000000?style=flat&logo=Jetbrains&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
@@ -71,6 +72,7 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=Notepad%2B%2B&logoColor=black">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/godotengine-478CBF?style=flat&logo=godotengine&logoColor=white">
 
 * 기타 (Etc)
  
