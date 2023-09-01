@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%23B21A1A&title_bg=%23555555&icon=electron.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![](https://github-readme-stats.vercel.app/api?username=PersesTitan&show_icons=true&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=dark)
+![](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=PersesTitan&show_icons=true&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PersesTitan&layout=compact&langs_count=105&theme=dark)
 |----|----|
 
 * 매인 언어 (Main Language)
