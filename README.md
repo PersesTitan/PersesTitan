@@ -145,4 +145,7 @@
   </tr>
 </table>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VaneProject&repo=bad-word-filtering&theme=dark)](https://github.com/VaneProject/bad-word-filtering)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VaneProject&repo=cut-image&theme=dark)](https://github.com/VaneProject/cut-image)
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VaneProject&repo=bad-word-filtering)](https://github.com/VaneProject/bad-word-filtering) -->
