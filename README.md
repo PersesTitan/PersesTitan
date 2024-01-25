@@ -1,7 +1,4 @@
 # Information 
-  
- 해보고 싶은건 많지만 코딩을 할때마다 실력이 많이 부족하다는 것이 느껴집니다. </br>
- 조금 더 좋은 코딩이 나오게 하고 싶네요...</br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPersesTitan&count_bg=%23B21A1A&title_bg=%23555555&icon=electron.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -127,90 +124,25 @@
 </br>
 </br>
 
-# 계획 중인 프로젝트
 
-## Status
+# Project Team
 
-- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square) READY(준비중): Have a simple design plan
-- ![DESIGN](https://img.shields.io/badge/DESIGN-yellow?style=flat-square) DESIGN(설계중): State of design of technology and structure to be used
-- ![DEVELOP](https://img.shields.io/badge/DEVELOP-green?style=flat-square) DEVELOP(개발중): The state of being developed
-- ![STOP](https://img.shields.io/badge/STOP-ff0000?style=flat-square) STOP(개발중단): Development stopped due to a problem
-- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square) UPDATE(업데이트): Basic features are implemented and additional features are being updated
-- ![FINISH](https://img.shields.io/badge/FINISH-blueviolet?style=flat-square) FINISH(개발종료): Development and update completed
 
-## Project
-### OTLanguage
-- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
-- 실용성있는 난해한 프로그래밍 언어 제작 프로젝트
-- A practical and esoteric programming language production project
-- 링크 : [OTLanguage](https://github.com/OTLanguage)
-- <details>
-      <summary>기타 정보</summary>
-      <a href="https://velog.io/@persestitan/OTLanguage-%EB%AC%B8%EB%B2%95%EC%A0%95%EB%B3%B4-%EC%B4%9D-%EC%A0%95%EB%A6%AC">문법 정리 링크</a>
-  </details>
+<table>
+  <tr>
+    <th>Project Vane</th>
+    <td>
+      <a href="https://github.com/VaneProject" style="text-align: center">
+        <img src="https://avatars.githubusercontent.com/VaneProject" width="100px;" alt=""/>
+        <br>
+        <b style="text-align: center">Github</b>
+      </a>
+      <br>
+      <a href="https://vaneproject.github.io/">
+        <b style="text-align: center;">Homepage</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Poison
-- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
-- OTLanguage를 이용하여 구현하는 웹프레임워크 구현 프로젝트
-- Web framework implementation project using OTLlanguage
-- 링크 : [Poison](https://github.com/OTLanguage)
-- <details>
-      <summary>기타 정보</summary>
-      <a href="https://velog.io/@persestitan/OTLanguagePoison-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0">동작 예제</a>
-  </details>
-
-### 문자열 계산기 
-- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
-- 문자열 이루어진 식을 계산하여 반환하는 로직 구현
-- Code to calculate a formula consisting of strings
-- 링크 : [Calculator-java](https://github.com/PersesTitan/Calculator-java)
-
-### 데이터 분석
-- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square)
-- 데이터를 분석하고 데이터 값을 예측하는 모델 구현
-- Implement models that analyze data and predict data values
-- 링크 : [N/A]()
-
-### 크롤링
-- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square)
-- 웹 검색 및 url를 가지고 정보를 읽어오는 동작 구현
-- Implementation of reading information with web search and url
-- 링크 : [N/A]()
-
-### 메크로
-- ![DESIGN](https://img.shields.io/badge/DESIGN-yellow?style=flat-square)
-- 마우스 클릭, 입력등 자동으로 동작하게 해주는 동작 구현
-- Implementation of actions that automatically operate such as mouse clicks and inputs
-- 링크 : [macro](https://github.com/PersesTitan/macro)
-
-### 새로운 종류의 Map구현
-- ![UPDATE](https://img.shields.io/badge/UPDATE-blue?style=flat-square)
-- 정규식을 이용한 Map이나 Key, Value 둘다 유일한 Map구현등 다른 종류의 Map구현
-- Map using regular expressionsor Key, Value, and other types of map implementation, such as the only map implementation
-- 링크 : [NewTypeMap](https://github.com/PersesTitan/NewTypeMap)
-
-### 데이터베이스 구현
-- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square)
-- 직열화를 이용한 데이터베이스구현하기
-- Implementing a database using serialization
-- 링크 : [N/A]()
-
-### 온라인 IDE 사이트 제작
-- ![READY](https://img.shields.io/badge/READY-lightgray?style=flat-square)
-- Spring을 이용한 온라인 IDE 제작해보기
-- Creating an online IDE using Spring
-- 링크 : [N/A]()
-
-### 온라인 커뮤니티 사이트 제작
-- ![DESIGN](https://img.shields.io/badge/DESIGN-yellow?style=flat-square)
-- Spring을 이용한 온라인 커뮤니티 사이트 구현
-- Implementation of online community site using Spring
-- 링크 : [online-community](https://github.com/PersesTitan/online-community)
-
-### 시험지 제작 사이트
-- ![DESIGN](https://img.shields.io/badge/DESIGN-yellow?style=flat-square)
-- 시험지를 제작하는 사이트 구현
-- Implementation of a site that produces test papers
-- 링크 
-  - [problem-fe](https://github.com/PersesTitan/problem-fe)
-  - [problem-be](https://github.com/PersesTitan/problem-spring)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VaneProject&repo=bad-word-filtering)](https://github.com/VaneProject/bad-word-filtering) -->
